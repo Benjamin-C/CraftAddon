@@ -1,0 +1,4 @@
+name: CraftAddon
+main: dev.orangeben.craftaddon.CAMain
+version: 2.0
+api-version: 1.18
